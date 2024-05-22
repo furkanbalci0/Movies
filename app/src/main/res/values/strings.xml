@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="vote_count">%1$d Vote</string>
+    <string name="favorite_button_content_description">Favorite Button</string>
+    <string name="favorites">Favorites</string>
+    <string name="information">Information</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Search</string>
+</resources>
